@@ -1,0 +1,21 @@
+# Windows / OS junk
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Desktop/
+Documents/
+Downloads/
+AppData/
+OneDrive/
+Favorites/
+Music/
+Videos/
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+
